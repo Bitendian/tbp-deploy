@@ -1,8 +1,8 @@
 {
-    "name": "bitendian/tbp-i18n-manager",
+    "name": "bitendian/tbp-deploy",
     "type": "library",
-    "description": "Management package for i18n static texts for TBP",
-    "keywords": ["tbp", "i18n", "multilanguage", "modules", "services", "gettext"],
+    "description": "Deploy tools for TBP projects",
+    "keywords": ["tbp", "deploy", "mysql", "tools"],
     "homepage": "http://www.bitendian.com/en/portfolio/tbp-5/",
     "license": "MIT",
     "minimum-stability": "dev",
