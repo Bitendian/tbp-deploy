@@ -1,0 +1,12 @@
+# exclude every .config
+#config/*.config
+#config/*.conf
+
+# composer files
+vendor/
+composer.lock
+composer.phar
+
+# IDE
+.idea
+.kdev4
