@@ -1,6 +1,6 @@
 <?php
 
-namespace Bitendian\Deploy\Domain;
+namespace Bitendian\TBP\Deploy\Domain;
 
 interface DatabaseCommandInterface
 {

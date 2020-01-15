@@ -1,10 +1,10 @@
 <?php
 
-namespace Bitendian\Deploy\Services;
+namespace Bitendian\TBP\Deploy\Services;
 
-use Bitendian\Deploy\Domain\MySQLCommandDomain;
+use Bitendian\TBP\Deploy\Domain\MySQLCommandDomain;
 use Bitendian\TBP\Utils\SystemMessages;
-use Bitendian\Deploy\Domain\DatabaseCommandInterface;
+use Bitendian\TBP\Deploy\Domain\DatabaseCommandInterface;
 use Bitendian\TBP\Domain\Connection\Interfaces\DatabaseConnectionInterface;
 use Bitendian\TBP\Domain\Connection\Database\MysqlDatabaseConnection;
 use Bitendian\TBP\Domain\Connection\Database\MssqlDatabaseConnection;
