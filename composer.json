@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Deploy tools for TBP projects",
     "keywords": ["tbp", "deploy", "mysql", "tools"],
-    "homepage": "http://www.bitendian.com/en/portfolio/tbp-5/",
+    "homepage": "http://www.bitendian.com/portfolio/tbp-3/",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
