@@ -13,12 +13,9 @@
             "homepage": "http://www.bitendian.com"
         }
     ],
-    "repositories": [
-        { "type": "vcs", "url": "git@github.com:Bitendian/tbp.git" }
-    ],
     "require": {
         "php": ">=7.1",
-        "bitendian/tbp": "1.0.18"
+        "bitendian/tbp": "^1.0"
     },
     "autoload": {
         "psr-4": {
